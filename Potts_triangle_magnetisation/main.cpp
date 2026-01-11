@@ -134,6 +134,7 @@ int main() {
         log_file << "Elapsed time: " << fixed << setprecision(2) << elapsed.count() << " s" << endl;
         log_file << "---------------------------------------" << endl << endl;
     }
+    cout << "Simulation completed in " << elapsed.count() << " seconds." << endl;
 
     return 0;
 }
