@@ -1,0 +1,7 @@
+--- Triangular Potts Simulation Log ---
+Date: Sun Jan 11 23:13:01 2026
+Lattice: Triangular, Q: 3, L: 4
+MCS: 1000000, Beta: 0.61 to 0.65
+Elapsed time: 102.84 s
+---------------------------------------
+
