@@ -21,8 +21,8 @@ const int N = L * L;
 const int MCS = 1000000;
 const int THERM = L * 20;
 
-const double beta_min = 0.61;
-const double beta_max = 0.65;
+const double beta_min = 0.625; // q=3 0.625
+const double beta_max = 0.635; // q=3 0.635
 const int num_beta = 20;
 
 struct PottsTriangular2D {

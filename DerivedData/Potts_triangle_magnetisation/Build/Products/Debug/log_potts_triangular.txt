@@ -5,3 +5,73 @@ MCS: 1000000, Beta: 0.61 to 0.65
 Elapsed time: 102.84 s
 ---------------------------------------
 
+--- Triangular Potts Simulation Log ---
+Date: Sun Jan 11 23:38:18 2026
+Lattice: Triangular, Q: 3, L: 16
+MCS: 1000000, Beta: 0.61 to 0.65
+Elapsed time: 748.93 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 00:30:16 2026
+Lattice: Triangular, Q: 3, L: 8
+MCS: 1000000, Beta: 0.61 to 0.65
+Elapsed time: 249.46 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 01:17:41 2026
+Lattice: Triangular, Q: 3, L: 32
+MCS: 1000000, Beta: 0.61 to 0.65
+Elapsed time: 2556.80 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 04:09:16 2026
+Lattice: Triangular, Q: 3, L: 64
+MCS: 1000000, Beta: 0.61 to 0.65
+Elapsed time: 9497.94 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 19:18:50 2026
+Lattice: Triangular, Q: 3, L: 128
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 24608.85 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 21:30:31 2026
+Lattice: Triangular, Q: 3, L: 64
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 7814.44 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 22:17:44 2026
+Lattice: Triangular, Q: 3, L: 32
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 2361.80 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 22:31:06 2026
+Lattice: Triangular, Q: 3, L: 16
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 729.24 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 23:34:36 2026
+Lattice: Triangular, Q: 3, L: 8
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 270.13 s
+---------------------------------------
+
+--- Triangular Potts Simulation Log ---
+Date: Mon Jan 12 23:36:29 2026
+Lattice: Triangular, Q: 3, L: 4
+MCS: 1000000, Beta: 0.625 to 0.635
+Elapsed time: 103.35 s
+---------------------------------------
+
