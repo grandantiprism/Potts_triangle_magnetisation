@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3D1E34582812623818A00C53759379C98D3D1C64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3D1E34582812623818A00C53759379C98D3D1C64" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B6F7585-FF4A-4696-ADF8-BD3D356647DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3D1E34582812623818A00C53759379C98D3D1C64" : "Potts_triangle_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Potts_triangle_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Potts_triangle_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Potts_triangle_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D1E34582812623818A00C53759379C98D3D1C64"
+    }
+  ]
+}
