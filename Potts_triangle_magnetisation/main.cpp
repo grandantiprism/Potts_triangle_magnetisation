@@ -15,14 +15,14 @@ using namespace std;
 namespace fs = std::filesystem;
 
 // --- パラメータ設定 ---
-const int Q = 3;
-const int L = 4;
+const int Q = 4;
+const int L = 128;
 const int N = L * L;
 const int MCS = 1000000;
 const int THERM = L * 20;
 
-const double beta_min = 0.625; // q=3 0.625
-const double beta_max = 0.635; // q=3 0.635
+const double beta_min = 0.682; // q=3 0.625
+const double beta_max = 0.702; // q=3 0.635
 const int num_beta = 20;
 
 struct PottsTriangular2D {
@@ -107,7 +107,7 @@ int main() {
 
         stringstream ss;
         ss << dir_name << "/beta_" << fixed << setprecision(5) << beta << ".txt";
-        ofstream ofs(ss.str());
+        ofstream ofs(ss.str(), ios::app);
         ofs << fixed << setprecision(15);
         
         cout << "Triangular Potts q=" << Q << ", beta = " << beta << "..." << endl;

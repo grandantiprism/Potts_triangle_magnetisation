@@ -75,3 +75,10 @@ MCS: 1000000, Beta: 0.625 to 0.635
 Elapsed time: 103.35 s
 ---------------------------------------
 
+--- Triangular Potts Simulation Log ---
+Date: Tue Jan 13 05:48:01 2026
+Lattice: Triangular, Q: 4, L: 128
+MCS: 1000000, Beta: 0.682 to 0.702
+Elapsed time: 21965.78 s
+---------------------------------------
+

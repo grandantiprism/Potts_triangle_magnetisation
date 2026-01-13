@@ -555,6 +555,67 @@
 			<key>uniqueIdentifier</key>
 			<string>D1D9D1C6-7C0D-45A0-881F-8E4DDC50E2CB</string>
 		</dict>
+		<key>DB0B30C6-A48F-4377-91C0-170ABC1D943B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8DD16BE9-F880-4748-B3EE-0D1057E211BC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_triangle_magnetisation-2026.01.12_23-41-53-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>789921713.35366094</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>DB0B30C6-A48F-4377-91C0-170ABC1D943B</string>
+		</dict>
 		<key>E872123D-4BE5-4F48-817D-4225B4A1AF3F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
