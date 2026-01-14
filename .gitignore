@@ -1,1 +1,2 @@
-DerivedData/Potts_triangle_magnetisation/Build/Products/Debug/output_potts_tri/
+DerivedData/Potts_triangle_magnetisation/Build/Products/Debug/output_potts_tri/*
+!DerivedData/Potts_triangle_magnetisation/Build/Products/Debug/output_potts_tri/analyse.py
