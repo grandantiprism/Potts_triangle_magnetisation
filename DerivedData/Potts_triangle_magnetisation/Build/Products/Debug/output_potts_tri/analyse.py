@@ -110,5 +110,5 @@ root_directory = "."
 l_list = [16, 24, 32, 48, 64, 96, 128]
 
 # 解析したいq値と格子タイプを個別に指定して実行できます
-# plot_binder_for_q(root_directory, target_q=3, lattice_type="honeycomb")
-plot_binder_for_q(root_directory, target_q=4, lattice_type="honeycomb")
+# plot_binder_for_q(root_directory, target_q=3, lattice_type="square")
+plot_binder_for_q(root_directory, target_q=4, lattice_type="square")
