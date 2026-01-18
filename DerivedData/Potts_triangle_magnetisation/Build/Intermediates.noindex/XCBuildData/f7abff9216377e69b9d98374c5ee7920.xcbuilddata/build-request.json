@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "abae5067eaf6f2c2ad08f64289de58a2c04a8b035e9e6b9fd4534ab431b15156"
+    }
+  ],
+  "containerPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/Potts_triangle_magnetisation.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx15.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData/Potts_triangle_magnetisation/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData/Potts_triangle_magnetisation/Build/Products",
+      "derivedDataPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData/Potts_triangle_magnetisation/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData/Potts_triangle_magnetisation/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/akihisatateishi/Library/CloudStorage/Dropbox/AT_sub-main/Xcode/Potts_triangle_magnetisation/DerivedData/Potts_triangle_magnetisation/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

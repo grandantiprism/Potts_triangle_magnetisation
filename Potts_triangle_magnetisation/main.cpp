@@ -15,14 +15,14 @@ using namespace std;
 namespace fs = std::filesystem;
 
 // --- パラメータ設定 ---
-const int Q = 4;
-const int L = 4;
+const int Q = 3;
+const int L = 96;
 const int N = L * L;
 const int MCS = 1000000;
 const int THERM = L * 20;
 
-const double beta_min = 0.691; // q=3 0.625, q=4 0.691
-const double beta_max = 0.695; // q=3 0.635, q=4 0.695
+const double beta_min = 0.625; // q=3 0.625, q=4 0.691
+const double beta_max = 0.635; // q=3 0.635, q=4 0.695
 const int num_beta = 20;
 
 struct PottsTriangular2D {

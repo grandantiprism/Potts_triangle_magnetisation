@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>37A52CF3-2300-4DEE-91DE-FA836FD928BF</key>
+		<key>451BCE83-E3C6-457F-878A-A3CF9DA0454D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>37A52CF3-2300-4DEE-91DE-FA836FD928BF.xcactivitylog</string>
+			<string>451BCE83-E3C6-457F-878A-A3CF9DA0454D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>790002173.11122096</real>
+			<real>790412140.34156799</real>
 			<key>timeStoppedRecording</key>
-			<real>790002174.02717495</real>
+			<real>790412143.95959997</real>
 			<key>title</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>37A52CF3-2300-4DEE-91DE-FA836FD928BF</string>
+			<string>451BCE83-E3C6-457F-878A-A3CF9DA0454D</string>
 		</dict>
-		<key>3F3978F6-526C-4726-9B72-C5C3280A595D</key>
+		<key>5DE31D25-74BA-461E-A9F9-FF396A27B236</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,7 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3F3978F6-526C-4726-9B72-C5C3280A595D.xcactivitylog</string>
+			<string>5DE31D25-74BA-461E-A9F9-FF396A27B236.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,13 +82,55 @@
 			<key>signature</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789998932.07752705</real>
+			<real>790435042.87320101</real>
 			<key>timeStoppedRecording</key>
-			<real>789998934.17457604</real>
+			<real>790435048.47332895</real>
 			<key>title</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>3F3978F6-526C-4726-9B72-C5C3280A595D</string>
+			<string>5DE31D25-74BA-461E-A9F9-FF396A27B236</string>
+		</dict>
+		<key>60EC6C3B-EA58-4AC5-A81B-EE5D2FF24DF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60EC6C3B-EA58-4AC5-A81B-EE5D2FF24DF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790444437.36970305</real>
+			<key>timeStoppedRecording</key>
+			<real>790444440.01432896</real>
+			<key>title</key>
+			<string>Build Potts_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>60EC6C3B-EA58-4AC5-A81B-EE5D2FF24DF1</string>
 		</dict>
 		<key>7A990727-4407-4A5C-8D38-68EC55B1FF04</key>
 		<dict>
@@ -132,7 +174,7 @@
 			<key>uniqueIdentifier</key>
 			<string>7A990727-4407-4A5C-8D38-68EC55B1FF04</string>
 		</dict>
-		<key>85A5FA49-FFC8-4575-92EA-0B63A99B6DF3</key>
+		<key>8249FD90-6575-4198-880F-033F1654AB10</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -141,7 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>85A5FA49-FFC8-4575-92EA-0B63A99B6DF3.xcactivitylog</string>
+			<string>8249FD90-6575-4198-880F-033F1654AB10.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -166,97 +208,13 @@
 			<key>signature</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789990100.52219498</real>
+			<real>790441607.605492</real>
 			<key>timeStoppedRecording</key>
-			<real>789990104.38148904</real>
+			<real>790441609.46535599</real>
 			<key>title</key>
 			<string>Build Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>85A5FA49-FFC8-4575-92EA-0B63A99B6DF3</string>
-		</dict>
-		<key>A5EFA92C-09BA-4936-8C2C-01044A07C219</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5EFA92C-09BA-4936-8C2C-01044A07C219.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_triangle_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_triangle_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_triangle_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>790002904.17130804</real>
-			<key>timeStoppedRecording</key>
-			<real>790002905.10643303</real>
-			<key>title</key>
-			<string>Build Potts_triangle_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>A5EFA92C-09BA-4936-8C2C-01044A07C219</string>
-		</dict>
-		<key>D28ECC69-8F2F-42D2-9E13-ECCCD09F8584</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D28ECC69-8F2F-42D2-9E13-ECCCD09F8584.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_triangle_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_triangle_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Potts_triangle_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789966102.65624905</real>
-			<key>timeStoppedRecording</key>
-			<real>789966104.46405697</real>
-			<key>title</key>
-			<string>Build Potts_triangle_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>D28ECC69-8F2F-42D2-9E13-ECCCD09F8584</string>
+			<string>8249FD90-6575-4198-880F-033F1654AB10</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,128 +6,6 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>1297103D-AA7B-42D2-800A-5EB70356F917</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>85A5FA49-FFC8-4575-92EA-0B63A99B6DF3</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_triangle_magnetisation-2026.01.13_18-41-40-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_triangle_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_triangle_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_triangle_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>789990100.51957798</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_triangle_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>1297103D-AA7B-42D2-800A-5EB70356F917</string>
-		</dict>
-		<key>64E31DCE-6D41-4FAC-996B-4F7529D87768</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A5EFA92C-09BA-4936-8C2C-01044A07C219</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Potts_triangle_magnetisation-2026.01.13_22-15-04-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Potts_triangle_magnetisation project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Potts_triangle_magnetisation</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Potts_triangle_magnetisation</string>
-			<key>timeStartedRecording</key>
-			<real>790002904.17119396</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Potts_triangle_magnetisation</string>
-			<key>uniqueIdentifier</key>
-			<string>64E31DCE-6D41-4FAC-996B-4F7529D87768</string>
-		</dict>
 		<key>65533CD5-90AB-47B7-9298-38762853B508</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -189,10 +67,10 @@
 			<key>uniqueIdentifier</key>
 			<string>65533CD5-90AB-47B7-9298-38762853B508</string>
 		</dict>
-		<key>6F695DA0-548E-4802-ADBF-7D2A449DBE72</key>
+		<key>713E6489-5F98-4036-A84A-3E346DD24656</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3F3978F6-526C-4726-9B72-C5C3280A595D</string>
+			<string>5DE31D25-74BA-461E-A9F9-FF396A27B236</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -213,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_triangle_magnetisation-2026.01.13_21-08-52-+0900.xcresult</string>
+			<string>Run-Potts_triangle_magnetisation-2026.01.18_22-17-22-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -242,18 +120,18 @@
 			<key>signature</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789998932.07693899</real>
+			<real>790435042.87308896</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>6F695DA0-548E-4802-ADBF-7D2A449DBE72</string>
+			<string>713E6489-5F98-4036-A84A-3E346DD24656</string>
 		</dict>
-		<key>7DC2344E-C118-46C2-A781-EA9B1D19EAF6</key>
+		<key>E602506C-BA77-4791-B25A-ABED49E223E9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>37A52CF3-2300-4DEE-91DE-FA836FD928BF</string>
+			<string>451BCE83-E3C6-457F-878A-A3CF9DA0454D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -274,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_triangle_magnetisation-2026.01.13_22-02-53-+0900.xcresult</string>
+			<string>Run-Potts_triangle_magnetisation-2026.01.18_15-55-40-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -303,18 +181,18 @@
 			<key>signature</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>790002173.11110604</real>
+			<real>790412140.34144104</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>7DC2344E-C118-46C2-A781-EA9B1D19EAF6</string>
+			<string>E602506C-BA77-4791-B25A-ABED49E223E9</string>
 		</dict>
-		<key>C9BC72C7-C5D9-460B-8300-955AA3C460E0</key>
+		<key>EDA172D4-2607-4B8F-875C-8167F8D0D128</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>D28ECC69-8F2F-42D2-9E13-ECCCD09F8584</string>
+			<string>8249FD90-6575-4198-880F-033F1654AB10</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -335,7 +213,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Potts_triangle_magnetisation-2026.01.13_12-01-42-+0900.xcresult</string>
+			<string>Run-Potts_triangle_magnetisation-2026.01.19_00-06-47-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -364,13 +242,13 @@
 			<key>signature</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789966102.65485799</real>
+			<real>790441607.60538602</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Potts_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>C9BC72C7-C5D9-460B-8300-955AA3C460E0</string>
+			<string>EDA172D4-2607-4B8F-875C-8167F8D0D128</string>
 		</dict>
 	</dict>
 </dict>
